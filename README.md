@@ -1,5 +1,7 @@
 # TDD Training application
 
+hi
+
 The TDD training application is based on the Weinberg-Myers triangle program [example](http://www.testdesigners.com/testingstyles/triangleexample.html).
 
 ## Required
